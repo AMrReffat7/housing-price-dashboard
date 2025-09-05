@@ -1,11 +1,11 @@
-# 🏠 Housing Price Dashboard
+# Housing Price Dashboard
 
 An interactive dashboard for **housing price prediction** using **Linear Regression**.  
 Built with **Dash, Plotly, and Scikit-learn**, the app allows users to explore data, view model performance, and predict house prices based on input features.
 
 ---
 
-## 📌 Features
+## Features
 
 - Data preprocessing & outlier handling
 - Exploratory analysis of numerical & categorical features
@@ -14,7 +14,7 @@ Built with **Dash, Plotly, and Scikit-learn**, the app allows users to explore d
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Clone the repo:
    ```bash
@@ -33,7 +33,7 @@ Built with **Dash, Plotly, and Scikit-learn**, the app allows users to explore d
 
 ---
 
-## 📂 Files
+## Files
 
 - `main.py` → Main app script
 - `Housing.csv` → Dataset
